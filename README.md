@@ -1,24 +1,6 @@
-# README
+# Let's Build: With Ruby on Rails
+## Extending Devise Series
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Custom Routing
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A quick guide to custom routing in a Ruby on Rails application using the Devise gem.
